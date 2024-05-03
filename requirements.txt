@@ -1,3 +1,3 @@
-spacy
-streamlit
+streamlit==0.90.0
+spacy==3.1.3
 PyPDF2
